@@ -12,9 +12,6 @@ Sind Unternehmen auf Grund der Erfolgsfaktoren innovativ, oder sind diese Folgen
 1. **Was ist Innovation?**
 1. **Arten von Innovation**
 1. **Messung von Innovation**
-   - Was?
-   - Wie?
-   - Was?
 1. **Chancen und Grenzen der Messung von Innovation**
 
 ---
@@ -25,7 +22,7 @@ _"Neuerung" oder "Erneuerung"_
 
 _"Innovation bezieht sich auf die Schaffung, Verbesserung oder Ersetzung eines Prozesses, Produkts oder einer Dienstleistung"_
 
-_"Innovation ist der Prozess, bei dem etwas Bestehendes verbessert wird, egal ob es sich um ein Produkt, eine Dienstleistung oder einen Prozess handelt"_ - **Benjamin Talin**
+_"Innovation ist der Prozess, bei dem etwas Bestehendes verbessert wird, egal ob es sich um ein Produkt, eine Dienstleistung oder einen Prozess handelt"_
 
 ---
 
@@ -40,7 +37,7 @@ _"Innovation ist der Prozess, bei dem etwas Bestehendes verbessert wird, egal ob
 
 ## Arten von Innovation
 
-![innovation](innovation.jpg)
+![innovation](Produkt.jpg)
 
 ---
 
@@ -119,7 +116,7 @@ Innovation erfolgreich zu messen ist ein Kombination auch verschiedenen Messgrö
 **2. Return on Investment (ROI) oder Kapitalwert eines Projekts**
 
 - Wenn Unternehmen in Innovation investieren, müssen mit diesen Investitionen Renditen erzielt werden
-- Geben diese Maßnahmen aufschluss über ein porisitives Ergebnis in der Zukunft, kann daraus eine erfolgreiche Innovation abgeleitet werden
+- Geben diese Maßnahmen aufschluss über ein positives Ergebnis in der Zukunft, kann daraus eine erfolgreiche Innovation abgeleitet werden
 
 ---
 
@@ -150,8 +147,15 @@ Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umse
 **Langfristige Kundenakzeptanz**
 
 Beispiel:
-Ein deutscher Automobilhersteller bringt einen Nachfolger für sein erfolgreichstes Modell auf den Markt.
-Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nicht erreichen. Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell hat die Kosten für Entwicklung und Markteinführung wieder reingeholt. Doch die Innovation hat sich nicht positiv auf das Ergebnis des Unternehmens beigetragen und den Absatz des Vorgängermodells abgewürgt.
+Ein deutscher Automobilhersteller bringt einen Nachfolger für sein erfolgreichstes Modell auf den Markt.Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nicht erreichen.
+
+---
+
+## Wie kann man Innovation messen?
+
+**Langfristige Kundenakzeptanz**
+
+Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell hat die Kosten für Entwicklung und Markteinführung wieder reingeholt. Doch die Innovation hat nicht positiv auf das Ergebnis des Unternehmens beigetragen und den Absatz des Vorgängermodells abgewürgt.
 
 ## Chancen und Grenzen der Messung von Innovation
 
@@ -177,7 +181,7 @@ Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nic
 
 ---
 
-## Chancen und Grenzen von Innovation
+## Chancen und Grenzen der Messung von Innovation
 
 ### Grenzen
 
@@ -186,9 +190,4 @@ Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nic
 
 ---
 
-Here is a simple footnote[^1].
-[^1]: My reference.
-
-## Referenzen
-
-[Ulrich Anders](https://ulrich-anders.eu)
+## Vielen Dank für die Aufmerksamkeit!
