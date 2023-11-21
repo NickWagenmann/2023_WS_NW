@@ -157,6 +157,8 @@ Ein deutscher Automobilhersteller bringt einen Nachfolger für sein erfolgreichs
 
 Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell hat die Kosten für Entwicklung und Markteinführung wieder reingeholt. Doch die Innovation hat nicht positiv auf das Ergebnis des Unternehmens beigetragen und den Absatz des Vorgängermodells abgewürgt.
 
+---
+
 ## Chancen und Grenzen der Messung von Innovation
 
 ### Chancen
@@ -171,13 +173,13 @@ Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell 
 
 ## Chancen und Grenzen der Messung von Innovation
 
-### Chancen
+### Chancen und Grenzen
 
 - Noch unterschiedlich ausgereifte Messung von Innovationsfeldern
 
-  - Produktinnovation = gut messbar
+- Produktinnovation = gut messbar
 
-  - Weiterentwicklung bei Service und nicht-technischen Prozessinnovationen
+- Weiterentwicklung bei Service und nicht-technischen Prozessinnovationen
 
 ---
 
@@ -186,7 +188,10 @@ Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell 
 ### Grenzen
 
 - Erfassung von Innovationen in Controlling Prozessen
+- Einheitliche Messungen
+  - Verzerrung durch Selbszeinschätzung
 - Time-Lag Problem (Verzögerungseffekt)
+- Größe des Wettbewerbsumfeldes
 
 ---
 
