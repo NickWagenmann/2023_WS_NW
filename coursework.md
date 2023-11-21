@@ -37,7 +37,7 @@ _"Innovation ist der Prozess, bei dem etwas Bestehendes verbessert wird, egal ob
 
 ## Arten von Innovation
 
-![innovation](Produkt.jpg)
+![innovation](Produkt.png)
 
 ---
 
