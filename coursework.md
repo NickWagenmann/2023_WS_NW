@@ -43,7 +43,7 @@ _"Innovation ist der Prozess, bei dem etwas Bestehendes verbessert wird, egal ob
 
 ## Messung von Innovation
 
-_"(...)Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innovation."_ - **Schumpeter**
+_"(...) Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innovation."_ - **Schumpeter**
 
 - Damit Innovation gemessen werden kann, muss sie funktionieren
 - Damit sie funktioniern kann, muss sie universell verstanden werden
@@ -70,9 +70,9 @@ _"(...)Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innovat
 
 - Projekt-, Innovations-Management, Strategie, Innovationskultur
 
-  - **Rountinen Sichtweise**
+  - **Rountinen-Sichtweise**
 
-- latente, qualitative Größen
+- Latente, qualitative Größen
 
 = **Operationalisierung**
 
@@ -84,7 +84,7 @@ _"(...)Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innovat
 
 - Wirtschaftliche Effekte, Produkte, Kosten, Qualität, Zeit
 
-  - **Wettbewerbsorientierte-Sichtweise**
+  - **Wettbewerbsorientierte Sichtweise**
 
 - Direkte erfassbare, quantifizierbare Größen
 
@@ -96,7 +96,7 @@ _"(...)Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innovat
 
 **Problem**:
 
-Die Messung der Innovationsleistung erfolgt in der Regel ad hoc, wobei die verwendeten Messgrößen von Jahr zu Jahr erheblich variieren.
+Die Messung der Innovationsleistung erfolgt in der Regel ad hoc, wobei die verwendeten Messgrößen von Jahr zu Jahr erheblich variieren können.
 
 Innovation erfolgreich zu messen ist ein Kombination auch verschiedenen Messgrößen
 
@@ -124,7 +124,7 @@ Innovation erfolgreich zu messen ist ein Kombination auch verschiedenen Messgrö
 
 **3. Innovatoren in Senior Porisitionen/ CEO Commitment**
 
-Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umsetzung neuer Ideen erreicht, die für einen Mehrwert gesorgt haben?
+Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umsetzung neuer Ideen, die für einen Mehrwert gesorgt haben, erreicht?
 
 - Für langfristigen Erfolg liegt der Schwerpunkt auf der Förderung innovativer Denker
 - Indikator für den tatsächlichen Wert von Innovation im Unternehmen
@@ -147,7 +147,7 @@ Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umse
 **Langfristige Kundenakzeptanz**
 
 Beispiel:
-Ein deutscher Automobilhersteller bringt einen Nachfolger für sein erfolgreichstes Modell auf den Markt.Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nicht erreichen.
+Ein deutscher Automobilhersteller bringt einen Nachfolger für sein erfolgreichstes Modell auf den Markt. Dies lässt sein Vorgängermodell alt aussehen, kann aber die Verkaufszahlen nicht erreichen.
 
 ---
 
