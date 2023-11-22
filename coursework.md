@@ -3,7 +3,7 @@
 ---
 
 **Henne-Ei Problem:**
-Sind Unternehmen auf Grund der Erfolgsfaktoren innovativ, oder sind diese Folgen der Innovation?
+Sind Unternehmen aufgrund der Erfolgsfaktoren innovativ, oder sind diese Folgen der Innovation?
 
 ---
 
@@ -98,7 +98,7 @@ _"(...) Notwendigkeit eines umfassenden Verständnisses von betrieblicher Innova
 
 Die Messung der Innovationsleistung erfolgt in der Regel ad hoc, wobei die verwendeten Messgrößen von Jahr zu Jahr erheblich variieren können.
 
-Innovation erfolgreich zu messen ist ein Kombination auch verschiedenen Messgrößen
+Innovation erfolgreich zu messen ist eine Kombination aus verschiedenen Messgrößen
 
 ---
 
@@ -116,13 +116,13 @@ Innovation erfolgreich zu messen ist ein Kombination auch verschiedenen Messgrö
 **2. Return on Investment (ROI) oder Kapitalwert eines Projekts**
 
 - Wenn Unternehmen in Innovation investieren, müssen mit diesen Investitionen Renditen erzielt werden
-- Geben diese Maßnahmen aufschluss über ein positives Ergebnis in der Zukunft, kann daraus eine erfolgreiche Innovation abgeleitet werden
+- Geben diese Maßnahmen Aufschluss über ein positives Ergebnis in der Zukunft, kann daraus eine erfolgreiche Innovation abgeleitet werden
 
 ---
 
 ## Wie kann man Innovation messen?
 
-**3. Innovatoren in Senior Porisitionen/ CEO Commitment**
+**3. Innovatoren in Senior Positionen / CEO Commitment**
 
 Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umsetzung neuer Ideen, die für einen Mehrwert gesorgt haben, erreicht?
 
@@ -136,7 +136,7 @@ Wie viele Senior- oder C-Level-Angestellte haben diese Positionen durch die Umse
 **4. Langfristige Kundenakzeptanz**
 
 - Innovationserfolg wird anhand des Erfolgs neuer Produkte und Dienstleistungen bewertet
-- Kundenorientierte Maßnahmen sollen zur Festigung der Kundenbindung führen
+- Kundenorientierte Maßnahmen sollen zur Festigung der Kundenbindung führen.
   **"Schaffen Sie Fans, nicht nur Kunden."**
 - Innovation ist dann erfolgreich, wenn bestehende Kunden neue Angebote mit Spannung erwarten und Schlange stehen, um sie zu kaufen.
 
@@ -189,7 +189,7 @@ Der Hersteller hat eine Innovation auf den Markt gebracht, denn das neue Modell 
 
 - Erfassung von Innovationen in Controlling Prozessen
 - Einheitliche Messungen
-  - Verzerrung durch Selbszeinschätzung
+  - Verzerrung durch Selbsteinschätzung
 - Time-Lag Problem (Verzögerungseffekt)
 - Größe des Wettbewerbsumfeldes
 
